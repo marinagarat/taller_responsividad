@@ -1,0 +1,11 @@
+.anchor {
+    width: 80vw;
+    margin-left: 9vw;
+  }
+
+  @media (max-width: 768px){
+    .anchor {
+        width: 90vw;
+        margin-left: 0;
+    }
+  }
